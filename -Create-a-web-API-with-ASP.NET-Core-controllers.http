@@ -3,4 +3,6 @@
 GET {{_Create_a_web_API_with_ASP.NET_Core_controllers_HostAddress}}/weatherforecast/
 Accept: application/json
 
+GET {{_Create_a_web_API_with_ASP.NET_Core_controllers_HostAddress}}/pizza/
+Accept: application/json
 ###
